@@ -1,4 +1,4 @@
-## mrafaini:~ Hello, World_ 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7AD&background=FF009300&width=435&lines=%40mrafaini%3A~%23+Hello!;Welcome+to+my+profile!)](https://git.io/typing-svg) 👋
 ### I know, this is a cliché phrase 😑
 
 - Well this is something i've been developing in this college account
