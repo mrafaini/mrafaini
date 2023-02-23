@@ -1,4 +1,7 @@
-### Hi there 👋
+## mrafaini:~ Hello, World_ 👋
+### I know, this is a cliché phrase 😑
+
+- Well this is something i've been developing in this college account
 
 <!--
 **mrafaini/mrafaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
