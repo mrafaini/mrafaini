@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7AD&background=FF009300&width=435&lines=%40mrafaini%3A~%23+Hello!;Welcome+to+my+profile!)](https://git.io/typing-svg)
-- Well this is something i've been developing in this college account
+- Well this is something I've been developing in this college account
 
 <!--
 **mrafaini/mrafaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
